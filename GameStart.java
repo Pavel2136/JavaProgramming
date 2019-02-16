@@ -2,7 +2,7 @@ public class GameStart {
     public static void main(String[] args) {
 
         Room room = new Room();
-        Hero hero = new Hero();
+        Hero hero = new Hero(); // create new Hero
 
         for (;;) {
             System.out.println("Перед вами 4 двери /w/n/e/s, в какую пойдете? "+
