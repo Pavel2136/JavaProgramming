@@ -34,7 +34,7 @@ public class LinkList<T> implements ICollection<T> {
         }
 
         while (current.prev != null) {
-            if (current.equals(current.item)) {
+            if (current.item.equals(s)) {
                 return true;
             } else {
                 current = current.next;
