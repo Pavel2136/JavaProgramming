@@ -38,7 +38,7 @@ public class LinkList<T> implements ICollection<T> {
                 return true;
             } else {
                 current = current.next;
-            }
+            } 
         }
         return false;
     }
