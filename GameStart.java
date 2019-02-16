@@ -28,7 +28,6 @@ public class GameStart {
             room.printRoomContent();
             hero.apply(room.handleRoomContent());
 
-
             if (hero.isDead()) {
                 System.out.println("Вы умерли");
                 return;
