@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/JavaProgramming.iml" />
     </modules>
   </component>
 </project>
